@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Lucky Cats Lucky Dogs COM" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="LuckyCatsLuckyDogs" enableFreeSpin="N" clientversion="1.0" gameId="300-2097-1" />
+	<GameClient name="Lucky Cats Lucky Dogs COM" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="LuckyCatsLuckyDogs" enableFreeSpin="N" clientversion="1.0" gameId="300-2097-1" />
+	<GameClient name="Lucky Cats Lucky Dogs COM" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="LuckyCatsLuckyDogs" enableFreeSpin="N" clientversion="1.0" gameId="300-2097-1" />
+</ClientConfig>
